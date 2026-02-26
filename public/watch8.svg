@@ -1,0 +1,39 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- White Gold Luxury Watch -->
+  <circle cx="200" cy="200" r="180" fill="#F1F5F9" stroke="#CBD5E1" stroke-width="4"/>
+  <circle cx="200" cy="200" r="170" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="2"/>
+
+  <!-- Watch face -->
+  <circle cx="200" cy="200" r="140" fill="#FEFEFE" stroke="#F1F5F9" stroke-width="1"/>
+
+  <!-- Subtle engraving -->
+  <circle cx="200" cy="200" r="130" stroke="#E2E8F0" stroke-width="0.5" stroke-dasharray="2,2" fill="none"/>
+
+  <!-- Minimal markers -->
+  <rect x="197" y="75" width="6" height="15" rx="3" fill="#64748B"/>
+  <rect x="197" y="310" width="6" height="15" rx="3" fill="#64748B"/>
+  <rect x="310" y="197" width="15" height="6" rx="3" fill="#64748B"/>
+  <rect x="75" y="197" width="15" height="6" rx="3" fill="#64748B"/>
+
+  <!-- Sleek hands -->
+  <line x1="200" y1="200" x2="200" y2="120" stroke="#0F172A" stroke-width="2" stroke-linecap="round"/>
+  <line x1="200" y1="200" x2="245" y2="200" stroke="#374151" stroke-width="1.5" stroke-linecap="round"/>
+  <line x1="200" y1="200" x2="200" y2="105" stroke="#EF4444" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- Minimal center -->
+  <circle cx="200" cy="200" r="2" fill="#0F172A"/>
+
+  <!-- Ceramic band -->
+  <rect x="175" y="20" width="50" height="35" rx="17" fill="#F8FAFC"/>
+  <rect x="175" y="345" width="50" height="35" rx="17" fill="#F8FAFC"/>
+  <rect x="175" y="20" width="50" height="35" rx="17" stroke="#CBD5E1" stroke-width="1" fill="none"/>
+  <rect x="175" y="345" width="50" height="35" rx="17" stroke="#CBD5E1" stroke-width="1" fill="none"/>
+
+  <!-- Ceramic texture -->
+  <circle cx="190" cy="37" r="1" fill="#94A3B8"/>
+  <circle cx="200" cy="37" r="1" fill="#94A3B8"/>
+  <circle cx="210" cy="37" r="1" fill="#94A3B8"/>
+  <circle cx="190" cy="363" r="1" fill="#94A3B8"/>
+  <circle cx="200" cy="363" r="1" fill="#94A3B8"/>
+  <circle cx="210" cy="363" r="1" fill="#94A3B8"/>
+</svg>
